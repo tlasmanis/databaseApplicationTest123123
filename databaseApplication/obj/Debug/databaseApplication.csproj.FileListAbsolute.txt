@@ -1,0 +1,10 @@
+C:\Users\tomas\Desktop\databaseApplication\databaseApplication\bin\Debug\databaseApplication.exe.config
+C:\Users\tomas\Desktop\databaseApplication\databaseApplication\bin\Debug\databaseApplication.exe
+C:\Users\tomas\Desktop\databaseApplication\databaseApplication\bin\Debug\databaseApplication.pdb
+C:\Users\tomas\Desktop\databaseApplication\databaseApplication\obj\Debug\databaseApplication.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\databaseApplication\databaseApplication\obj\Debug\databaseApplication.classExample.resources
+C:\Users\tomas\Desktop\databaseApplication\databaseApplication\obj\Debug\databaseApplication.Properties.Resources.resources
+C:\Users\tomas\Desktop\databaseApplication\databaseApplication\obj\Debug\databaseApplication.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\databaseApplication\databaseApplication\obj\Debug\databaseApplication.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\databaseApplication\databaseApplication\obj\Debug\databaseApplication.exe
+C:\Users\tomas\Desktop\databaseApplication\databaseApplication\obj\Debug\databaseApplication.pdb
